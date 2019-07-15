@@ -1,0 +1,11 @@
+1	Turkish_Literature
+2	English_Literature
+3	French_Literature
+4	Russian_Literature
+5	Italian_Literature
+6	Greek_Literature
+7	Spanish_Literature
+8	German_Literature
+9	American_Literature
+10	Chinese_Literature
+11	Lebanese_Literature
